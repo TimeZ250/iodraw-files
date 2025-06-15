@@ -1002,7 +1002,7 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-190" value="五根脚趾长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1810" y="2130" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-196">
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-196" target="igR_TjnwtMGRMJH6GZGm-227">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1390" y="2225" as="targetPoint" />
           </mxGeometry>
@@ -1068,7 +1068,7 @@
           <mxGeometry x="1400" y="2410" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-227" value="在线客服聊天界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="2170" width="120" height="30" as="geometry" />
+          <mxGeometry x="1400" y="2210" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
