@@ -477,8 +477,8 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-3" value="租赁订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="720" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-5" value="租赁订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="730" width="120" height="30" as="geometry" />
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-5" value="草稿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="770" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
