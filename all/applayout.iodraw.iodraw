@@ -491,6 +491,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bkkjh5rkzbpIEUZaNRiN-168">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-168" value="我的收藏" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="730" width="120" height="30" as="geometry" />
         </mxCell>
@@ -538,6 +543,9 @@
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-22" value="收藏的商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="970" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-25" value="收藏的商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="980" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
