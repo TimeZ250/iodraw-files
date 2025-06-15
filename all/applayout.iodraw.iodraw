@@ -1073,6 +1073,9 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-211" value="交易裁决" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1060" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-213" target="igR_TjnwtMGRMJH6GZGm-291">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-213" value="社区裁决" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1140" width="120" height="40" as="geometry" />
         </mxCell>
@@ -1209,6 +1212,9 @@
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-291" value="被裁决方社区言论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="1129" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-293" value="被裁决方社区言论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="717" y="1139" width="120" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
