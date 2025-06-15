@@ -807,9 +807,6 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-124" value="脖围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="1650" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-132" target="igR_TjnwtMGRMJH6GZGm-134">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-132" target="igR_TjnwtMGRMJH6GZGm-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
