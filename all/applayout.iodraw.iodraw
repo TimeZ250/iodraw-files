@@ -613,8 +613,8 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-47" value="详细地址与门牌号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1630" y="1390" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="1270" width="120" height="40" as="geometry" />
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-48" value="创建新收货地址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1270" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
