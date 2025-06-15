@@ -849,6 +849,9 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-135" target="igR_TjnwtMGRMJH6GZGm-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-135" target="igR_TjnwtMGRMJH6GZGm-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-135" value="上肢" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1810" y="1820" width="120" height="30" as="geometry" />
         </mxCell>
@@ -882,8 +885,8 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-162" value="手肘围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2070" y="1800" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-164" value="手肘围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="1810" width="90" height="20" as="geometry" />
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-164" value="大臂围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="1825" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
