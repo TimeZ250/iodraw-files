@@ -471,7 +471,7 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-1" value="我的在卖/在租" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="680" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-3" value="我的在卖/在租" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-3" value="租赁订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="720" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
