@@ -846,8 +846,8 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-144" value="臀围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1810" y="1780" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-149" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2230" y="1820" width="120" height="60" as="geometry" />
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-150" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="1723" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
