@@ -599,25 +599,25 @@
           <mxGeometry x="1390" y="1090" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-42" value="姓名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="1270" width="120" height="30" as="geometry" />
+          <mxGeometry x="1630" y="1260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-43" value="手机号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="1310" width="120" height="30" as="geometry" />
+          <mxGeometry x="1630" y="1300" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-44" value="独立页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="510" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-46" value="所在地区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="1350" width="120" height="30" as="geometry" />
+          <mxGeometry x="1630" y="1340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-47" value="详细地址与门牌号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="1390" width="120" height="30" as="geometry" />
+          <mxGeometry x="1630" y="1380" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-48" value="创建新收货地址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1265" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-49" value="设为默认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="1430" width="120" height="30" as="geometry" />
+          <mxGeometry x="1630" y="1420" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-50" value="收货地址列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1380" width="120" height="40" as="geometry" />
