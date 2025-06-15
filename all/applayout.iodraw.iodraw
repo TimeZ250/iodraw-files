@@ -427,6 +427,9 @@
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bkkjh5rkzbpIEUZaNRiN-136" target="bkkjh5rkzbpIEUZaNRiN-163" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkkjh5rkzbpIEUZaNRiN-136" target="igR_TjnwtMGRMJH6GZGm-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-136" value="订单详细界面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1550" y="750" width="140" height="40" as="geometry" />
         </mxCell>
@@ -1170,6 +1173,9 @@
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-273" value="退换货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1850" y="1210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-275" value="店家客服聊天界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2018" y="1060" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
