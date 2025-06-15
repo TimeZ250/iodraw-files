@@ -614,13 +614,16 @@
           <mxGeometry x="1630" y="1380" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-48" value="创建新收货地址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="1265" width="120" height="40" as="geometry" />
+          <mxGeometry x="1400" y="1270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-49" value="设为默认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1630" y="1420" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-50" value="收货地址列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="1380" width="120" height="40" as="geometry" />
+          <mxGeometry x="1200" y="1300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-51" value="创建新收货地址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
