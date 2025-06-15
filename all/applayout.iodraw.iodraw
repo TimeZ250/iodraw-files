@@ -737,19 +737,25 @@
           <mxGeometry x="1630" y="1900" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-98" value="性别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1330" width="120" height="20" as="geometry" />
+          <mxGeometry x="1930" y="1285" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-100" value="名称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1360" width="120" height="20" as="geometry" />
+          <mxGeometry x="1930" y="1315" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-103" value="身高" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1390" width="120" height="20" as="geometry" />
+          <mxGeometry x="1930" y="1345" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-105" value="体重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1420" width="120" height="20" as="geometry" />
+          <mxGeometry x="1930" y="1375" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-107" value="常穿鞋码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1450" width="120" height="20" as="geometry" />
+          <mxGeometry x="1930" y="1405" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-110" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1980" y="1540" as="sourcePoint" />
+            <mxPoint x="2030" y="1490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
