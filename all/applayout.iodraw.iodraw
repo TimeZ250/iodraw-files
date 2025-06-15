@@ -924,7 +924,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-172" value="基础信息必填，其他选填" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="1970" width="160" height="30" as="geometry" />
+          <mxGeometry x="1610" y="2060" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
