@@ -511,11 +511,11 @@
             <mxPoint x="1790" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-13" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-13" value="搜索收藏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="870" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-16" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="880" width="120" height="30" as="geometry" />
+          <mxGeometry x="1390" y="920" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
