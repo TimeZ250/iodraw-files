@@ -1275,6 +1275,9 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-308" target="igR_TjnwtMGRMJH6GZGm-313">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-316" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-308" target="igR_TjnwtMGRMJH6GZGm-315">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-308" value="安全隐私" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="650" width="120" height="30" as="geometry" />
         </mxCell>
