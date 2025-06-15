@@ -757,6 +757,9 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-112" value="内衣尺码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="1440" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-114" value="内衣尺码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1450" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
