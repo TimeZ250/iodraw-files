@@ -689,7 +689,10 @@
           <mxGeometry x="1470" y="1770" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-88" value="基础信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="1680" width="120" height="60" as="geometry" />
+          <mxGeometry x="1630" y="1540" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-89" value="上身" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="1680" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
