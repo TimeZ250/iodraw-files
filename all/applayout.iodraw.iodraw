@@ -700,8 +700,8 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-91" value="下身" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1630" y="1810" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-92" value="下身" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="1820" width="120" height="30" as="geometry" />
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-92" value="脚部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="1900" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
