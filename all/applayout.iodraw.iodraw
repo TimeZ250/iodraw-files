@@ -1147,8 +1147,8 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-264" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2180" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-265" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2180" y="1140" width="120" height="60" as="geometry" />
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-265" value="发货物流问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1090" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
