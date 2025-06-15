@@ -541,6 +541,9 @@
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-171" value="我的钱包" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="780" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkkjh5rkzbpIEUZaNRiN-172" target="igR_TjnwtMGRMJH6GZGm-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-172" value="收货信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="830" width="120" height="30" as="geometry" />
         </mxCell>
@@ -614,16 +617,16 @@
           <mxGeometry x="1630" y="1380" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-48" value="创建新收货地址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1270" width="120" height="40" as="geometry" />
+          <mxGeometry x="1400" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-49" value="设为默认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1630" y="1420" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-50" value="收货地址列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="1300" width="120" height="40" as="geometry" />
+          <mxGeometry x="1230" y="1330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-51" value="修改信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1370" width="120" height="40" as="geometry" />
+          <mxGeometry x="1400" y="1380" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
