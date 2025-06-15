@@ -1120,8 +1120,8 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-251" value="裁决规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-256" value="买卖家主张" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="985" width="120" height="20" as="geometry" />
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-256" value="买卖家纠纷主张" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="985" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-257" value="双方举证资料和最近交易信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="1020" width="170" height="20" as="geometry" />
