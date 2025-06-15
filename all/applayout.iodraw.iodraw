@@ -673,6 +673,12 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-74" target="igR_TjnwtMGRMJH6GZGm-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-74" target="igR_TjnwtMGRMJH6GZGm-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-74" target="igR_TjnwtMGRMJH6GZGm-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-74" value="创建新尺码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1590" width="120" height="40" as="geometry" />
         </mxCell>
