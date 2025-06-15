@@ -774,14 +774,18 @@
             <mxPoint x="1910" y="1570" as="sourcePoint" />
             <mxPoint x="2080" y="1430" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1990" y="1570" />
               <mxPoint x="2080" y="1570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-119" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2030" y="1510" as="sourcePoint" />
-            <mxPoint x="2080" y="1460" as="targetPoint" />
+            <mxPoint x="1910" y="1570" as="sourcePoint" />
+            <mxPoint x="2080" y="1430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1910" y="1430" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
