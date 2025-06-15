@@ -916,8 +916,8 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-173" value="腰围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1810" y="1870" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-176" value="腰围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="1880" width="120" height="20" as="geometry" />
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-176" value="臀围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="1900" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
