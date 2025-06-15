@@ -177,6 +177,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkkjh5rkzbpIEUZaNRiN-22" target="igR_TjnwtMGRMJH6GZGm-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-22" value="我的服务板块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="540" width="120" height="30" as="geometry" />
         </mxCell>
@@ -988,7 +991,7 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-200" value="功能建议与BUG反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="2290" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-202" value="客服与帮助" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-202" value="莫斯小法庭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="980" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
