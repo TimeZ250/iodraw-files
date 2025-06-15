@@ -575,17 +575,11 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-25" value="收藏的帖子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1020" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-28" target="igR_TjnwtMGRMJH6GZGm-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-28" value="我的余额" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-31" value="收支明细" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1169" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-34" value="提现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="1125" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-36" value="自动提现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1210" width="120" height="30" as="geometry" />
