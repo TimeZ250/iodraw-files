@@ -852,6 +852,9 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-150" value="手掌长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2070" y="1674" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-154" value="五根手指长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="1700" width="90" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
