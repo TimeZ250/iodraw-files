@@ -460,6 +460,9 @@
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-162" value="联系客服" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1850" y="1050" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-263" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bkkjh5rkzbpIEUZaNRiN-163" target="igR_TjnwtMGRMJH6GZGm-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-163" value="投诉" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1850" y="1100" width="120" height="30" as="geometry" />
         </mxCell>
@@ -1139,7 +1142,7 @@
           <mxGeometry x="680" y="1090" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-262" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2090" y="1100" width="120" height="30" as="geometry" />
+          <mxGeometry x="2030" y="1100" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
