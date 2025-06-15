@@ -955,8 +955,11 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-188" value="脚长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1810" y="2070" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-189" value="脚长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-189" value="脚掌围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1810" y="2100" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-190" value="脚掌围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="2130" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
