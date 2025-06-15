@@ -821,7 +821,9 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-132" target="igR_TjnwtMGRMJH6GZGm-142">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1810" y="1772" />
+              <mxPoint x="1780" y="1772" />
+              <mxPoint x="1780" y="1720" />
+              <mxPoint x="1810" y="1720" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -859,7 +861,7 @@
           <mxGeometry x="1810" y="1680" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-142" value="胸围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="1762" width="120" height="20" as="geometry" />
+          <mxGeometry x="1840" y="1743" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-150" value="手掌长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2070" y="1674" width="90" height="20" as="geometry" />
