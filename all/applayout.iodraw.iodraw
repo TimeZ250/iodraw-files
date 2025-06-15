@@ -622,7 +622,7 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-50" value="收货地址列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="1300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-51" value="修改地址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-51" value="修改信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1370" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
