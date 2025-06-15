@@ -1082,6 +1082,9 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-213" value="社区裁决" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1140" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-215" target="igR_TjnwtMGRMJH6GZGm-295">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-215" value="我的贡献" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1220" width="120" height="40" as="geometry" />
         </mxCell>
@@ -1222,8 +1225,8 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-295" value="已采纳" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="1210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-296" value="已采纳" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="715" y="1220" width="120" height="30" as="geometry" />
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-296" value="未采纳" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="1250" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
