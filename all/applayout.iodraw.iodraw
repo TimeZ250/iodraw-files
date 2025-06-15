@@ -999,6 +999,9 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-202" value="莫斯小法庭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="980" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-204" value="功能建议与BUG反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="2330" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
