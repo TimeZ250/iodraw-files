@@ -448,22 +448,22 @@
           <mxGeometry x="1850" y="1100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-166" value="我的发布" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="680" width="120" height="30" as="geometry" />
+          <mxGeometry x="1050" y="680" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-168" value="我的收藏" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="730" width="120" height="30" as="geometry" />
+          <mxGeometry x="1050" y="730" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-171" value="我的钱包" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="780" width="120" height="30" as="geometry" />
+          <mxGeometry x="1050" y="780" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-172" value="收货信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="830" width="120" height="30" as="geometry" />
+          <mxGeometry x="1050" y="830" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-174" value="我的尺码" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="880" width="120" height="30" as="geometry" />
+          <mxGeometry x="1050" y="880" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-175" value="客服与帮助" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="930" width="120" height="30" as="geometry" />
+          <mxGeometry x="1050" y="930" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
