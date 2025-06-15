@@ -997,6 +997,11 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-190" value="五根脚趾长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1810" y="2130" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-196">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="2225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-196" value="联系在线客服" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="2210" width="120" height="30" as="geometry" />
         </mxCell>
