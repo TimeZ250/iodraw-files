@@ -769,7 +769,7 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-116" value="底围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="1520" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-118" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-120">
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-118" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1910" y="1550" as="sourcePoint" />
             <mxPoint x="2060" y="1430" as="targetPoint" />
@@ -789,15 +789,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-121" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="igR_TjnwtMGRMJH6GZGm-120">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1910" y="1550" as="sourcePoint" />
-            <mxPoint x="2060" y="1430" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-120" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="1550" width="80" height="30" as="geometry" />
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-120" value="性别为女性时出现" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="1400" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
