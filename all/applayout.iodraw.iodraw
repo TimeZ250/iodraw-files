@@ -1144,6 +1144,9 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-262" target="igR_TjnwtMGRMJH6GZGm-265">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-262" target="igR_TjnwtMGRMJH6GZGm-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-262" value="选择投诉原因" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2008" y="1100" width="120" height="30" as="geometry" />
         </mxCell>
@@ -1152,6 +1155,9 @@
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-265" value="发货物流问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2170" y="1090" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-269" value="商品本身问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="1140" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
