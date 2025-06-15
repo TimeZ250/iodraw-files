@@ -810,8 +810,8 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-124" value="脖围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="1650" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-128" value="胸腹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="1733.5" width="120" height="30" as="geometry" />
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-128" value="臂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="1800" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
