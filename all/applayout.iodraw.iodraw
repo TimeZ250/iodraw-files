@@ -1389,8 +1389,8 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-336" value="消息设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="970" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-337" value="消息设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="980" width="120" height="40" as="geometry" />
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-337" value="用户协议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1030" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
