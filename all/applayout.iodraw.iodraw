@@ -1008,7 +1008,7 @@
           <mxGeometry x="1200" y="2330" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-208" value="社区规则与申诉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="2340" width="120" height="30" as="geometry" />
+          <mxGeometry x="1200" y="2370" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
