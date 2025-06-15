@@ -547,11 +547,6 @@
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-172" value="收货信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="830" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bkkjh5rkzbpIEUZaNRiN-174">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1190" y="1590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-174" value="我的尺码" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="880" width="120" height="30" as="geometry" />
         </mxCell>
@@ -665,6 +660,9 @@
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-64" value="长按" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="1460" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
