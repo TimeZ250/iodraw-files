@@ -307,6 +307,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-334" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bkkjh5rkzbpIEUZaNRiN-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-74" value="设置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="590" width="120" height="30" as="geometry" />
         </mxCell>
