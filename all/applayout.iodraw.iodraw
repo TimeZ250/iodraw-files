@@ -670,11 +670,6 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-74" target="igR_TjnwtMGRMJH6GZGm-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-74">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1630" y="1725" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-74" target="igR_TjnwtMGRMJH6GZGm-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -698,11 +693,6 @@
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-83" target="igR_TjnwtMGRMJH6GZGm-89">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-83">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1630" y="1815" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-83" value="修改尺码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1690" width="120" height="40" as="geometry" />
@@ -813,6 +803,9 @@
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-124" value="脖围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="1650" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-132" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="1694" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
