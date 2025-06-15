@@ -514,6 +514,14 @@
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-171" value="我的钱包" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="780" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkkjh5rkzbpIEUZaNRiN-172" target="igR_TjnwtMGRMJH6GZGm-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="845" />
+              <mxPoint x="1240" y="1145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bkkjh5rkzbpIEUZaNRiN-172" value="收货信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="830" width="120" height="30" as="geometry" />
         </mxCell>
