@@ -1174,13 +1174,16 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-273" target="igR_TjnwtMGRMJH6GZGm-275">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-273" target="igR_TjnwtMGRMJH6GZGm-277">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-273" value="退换货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1850" y="1210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-275" value="退货退款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2008" y="1210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-277" value="退货退款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-277" value="换货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2008" y="1250" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
