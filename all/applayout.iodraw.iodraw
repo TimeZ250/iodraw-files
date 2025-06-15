@@ -870,8 +870,8 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-156" value="手腕围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2070" y="1750" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-160" value="手腕围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="1760" width="90" height="20" as="geometry" />
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-160" value="小臂围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="1775" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
