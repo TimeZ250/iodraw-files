@@ -544,8 +544,8 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-22" value="收藏的商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="970" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-25" value="收藏的商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="980" width="120" height="30" as="geometry" />
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-25" value="收藏的帖子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1020" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
