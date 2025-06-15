@@ -685,7 +685,7 @@
         <mxCell id="igR_TjnwtMGRMJH6GZGm-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igR_TjnwtMGRMJH6GZGm-74" target="igR_TjnwtMGRMJH6GZGm-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="igR_TjnwtMGRMJH6GZGm-74" value="创建新收货地址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-74" value="创建新尺码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1590" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-75" value="设为默认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
