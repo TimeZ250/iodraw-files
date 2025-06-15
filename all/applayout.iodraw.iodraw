@@ -1121,7 +1121,10 @@
           <mxGeometry x="920" y="1300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="igR_TjnwtMGRMJH6GZGm-256" value="买卖家主张" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="960" width="120" height="20" as="geometry" />
+          <mxGeometry x="790" y="985" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="igR_TjnwtMGRMJH6GZGm-257" value="双方举证资料和最近交易信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1020" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
